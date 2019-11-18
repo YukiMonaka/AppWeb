@@ -1,13 +1,20 @@
 <template>
   <div>
-    <h2>hello World</h2>
+    <home-header></home-header>
+    <home-swiper></home-swiper>
   </div>
 </template>
 
 <script>
-export default {
-  name: 'Home'
-}
+  import HomeHeader from './components/Header'
+  import HomeSwiper from './components/Swiper'
+  export default {
+    name: 'Home',
+    components: {
+      HomeHeader,
+      HomeSwiper
+    }
+  }
 </script>
 
 <style scoped>

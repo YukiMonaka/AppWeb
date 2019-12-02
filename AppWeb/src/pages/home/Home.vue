@@ -12,13 +12,15 @@
   import HomeSwiper from './components/Swiper'
   import HomeIcons from './components/Icons'
   import HomeHot from './components/Hot'
+  import HomeLiked from './components/Liked'
   export default {
     name: 'Home',
     components: {
       HomeHeader,
       HomeSwiper,
       HomeIcons,
-      HomeHot
+      HomeHot,
+      HomeLiked
     }
   }
 </script>

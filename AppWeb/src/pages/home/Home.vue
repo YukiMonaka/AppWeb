@@ -4,6 +4,8 @@
     <home-swiper></home-swiper>
     <home-icons></home-icons>
     <home-hot></home-hot>
+    <home-liked></home-liked>
+    <home-weekend></home-weekend>
   </div>
 </template>
 

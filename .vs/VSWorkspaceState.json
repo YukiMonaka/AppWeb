@@ -2,14 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\AppWeb",
+    "\\AppWeb\\config",
     "\\AppWeb\\src",
     "\\AppWeb\\src\\assets",
     "\\AppWeb\\src\\assets\\styles",
-    "\\AppWeb\\src\\pages",
     "\\AppWeb\\src\\pages\\home",
-    "\\AppWeb\\src\\pages\\home\\componets",
-    "\\AppWeb\\src\\router"
+    "\\AppWeb\\src\\pages\\home\\componets"
   ],
-  "SelectedNode": "\\AppWeb\\src\\router\\index.js",
+  "SelectedNode": "\\AppWeb\\src\\assets\\styles",
   "PreviewInSolutionExplorer": false
 }

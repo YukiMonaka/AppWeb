@@ -1,0 +1,19 @@
+{
+  "name": "appweb",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YukiMonaka/AppWeb.git"
+  },
+  "author": "YukiMonaka <845404239@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YukiMonaka/AppWeb/issues"
+  },
+  "homepage": "https://github.com/YukiMonaka/AppWeb#readme"
+}

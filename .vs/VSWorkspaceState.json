@@ -1,14 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\AppWeb",
-    "\\AppWeb\\config",
-    "\\AppWeb\\src",
-    "\\AppWeb\\src\\assets",
-    "\\AppWeb\\src\\assets\\styles",
-    "\\AppWeb\\src\\pages\\home",
-    "\\AppWeb\\src\\pages\\home\\componets"
+    ""
   ],
-  "SelectedNode": "\\AppWeb\\src\\assets\\styles",
+  "SelectedNode": "\\CNAME",
   "PreviewInSolutionExplorer": false
 }
